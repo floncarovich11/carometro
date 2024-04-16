@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 80px;
+}
+h1{
+  font-size: 60px;
+  margin-top: 45px;
+  margin-left: 40px;
+}
+p{
+  font-size: 20px;
+  margin-top: 35px;
+  margin-left: 40px;
+  width: 600px;
+}
+form{
+  margin-left: 40px;
+  font-size: large;
+  margin-top: 155px;
+}
+.email, .senha{
+  margin-top: 25px;
+}
+.retangulo-login{
+    width: 800px;
+    height: 790px;
+    background-color: beige;
+    border-radius: 20px;
+    margin-top: 30px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    box-shadow: 10px 0px 20px 0px rgba(0,0,0,0.5);;
+}
+body{
+  overflow: hidden;
+  background-color: #FF5554;
+}
+.login{
+  display: flex;
+  background-color: red;
+}
+input{
+  background-color: #363333;
+  width: 690px;
+  height: 35px;
+  border-radius: 20px;
+  margin-top: 10px;
+  color: white;
+}
+button{
+  background-color: #363333;
+  color: white;
+  width: 80px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: 25px;
+  font-size: 15px;
+}

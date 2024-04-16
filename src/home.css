@@ -1,0 +1,104 @@
+.cabecalho-home{
+    background-color: red;
+    display: flex;
+    align-items: center;
+    height: 75px;
+    justify-content: space-between;
+}
+img{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+.img-form{
+    padding-top: 20px;
+}
+.home{
+    background-color: #FF5554;
+    
+}
+
+
+.forms-conteiner{
+    display: flex;
+    justify-content: center;
+    margin-top: -160px;
+    text-align: center;
+    align-items: center;
+}
+.forms-conteiner1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -50px;
+    text-align: center;
+    align-items: center;
+    color: white;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.form-1{
+    width: 300px;
+    height: 400px;
+    background-color: red;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.form-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 200px;
+    background-color: red;
+    margin-bottom: 20px;
+    border-radius: 20px;    
+    font-size: xx-large;
+    
+}
+.anoSala{
+    width: 70%;
+    height: 10%;
+    background-color: beige; 
+    display: flex;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+.alunoSala{
+    width: 70%;
+    height: 10%;
+    background-color: beige; 
+    margin-top: 10px;
+    display: flex;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
+.instagramSala{
+    width: 70%;
+    height: 10%;
+    background-color: beige;
+    margin-top: 10px;
+    display: flex;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
+.classroomSala{
+    width: 70%;
+    height: 10%;
+    background-color: beige;
+    margin-top: 10px;
+    display: flex;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
