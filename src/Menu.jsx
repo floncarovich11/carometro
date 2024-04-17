@@ -48,7 +48,9 @@ function Menu() {
                             <img src={Idev2} alt="" width="200px" height="150px"/>
                         </div>
                         <div className="anoSala" >2023</div>
-                        <div className="alunoSala" >Alunos</div>
+                        <div onClick={()=> window.location.href=`/alunosIdev2`} className="alunoSala">
+                            <a href="alunosIdev2">Alunos</a> 
+                        </div>
                         <div className="instagramSala">
                             <a href="https://www.instagram.com/fenix_idev2/" target="_blank" rel="noopener noreferrer">Instagram</a>
                         </div>
@@ -64,7 +66,9 @@ function Menu() {
                             <img src={Ieleimec2} alt="" width="200px" height="150px"/>
                         </div>
                         <div className="anoSala" >2023</div>
-                        <div className="alunoSala" >Alunos</div>
+                        <div onClick={()=> window.location.href=`/alunosIdev2`} className="alunoSala">
+                            <a href="alunosIdev2">Alunos</a> 
+                        </div>
                         <div className="instagramSala">
                             <a href="https://www.instagram.com/elemec.pererecos/" target="_blank" rel="noopener noreferrer">Instagram</a>
                         </div>
@@ -81,7 +85,9 @@ function Menu() {
                         </div>
                        
                         <div className="anoSala" >2022</div>
-                        <div className="alunoSala" >Alunos</div>
+                        <div onClick={()=> window.location.href=`/alunosIdev2`} className="alunoSala">
+                            <a href="alunosIdev2">Alunos</a> 
+                        </div>
                         <div className="instagramSala">
                             <a href="https://www.instagram.com/ferasdoterceiro/" target="_blank" rel="noopener noreferrer">Instagram</a>
                         </div>
@@ -97,7 +103,9 @@ function Menu() {
                             <img src={Ieleimec1} alt="" width="200px" height="150px" />
                         </div>
                         <div className="anoSala" >2022</div>
-                        <div className="alunoSala" >Alunos</div>
+                        <div onClick={()=> window.location.href=`/alunosIdev2`} className="alunoSala">
+                            <a href="alunosIdev2">Alunos</a> 
+                        </div>
                         <div className="instagramSala">
                             <a href="https://www.instagram.com/tigroesdosenai/" target="_blank" rel="noopener noreferrer">Instagram</a>
                         </div>

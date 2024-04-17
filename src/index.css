@@ -40,7 +40,7 @@ form{
     box-shadow: 10px 0px 20px 0px rgba(0,0,0,0.5);;
 }
 body{
-  overflow: hidden;
+  /* overflow: hidden; */
   background-color: #FF5554;
 }
 .login{
@@ -56,11 +56,12 @@ input{
   color: white;
 }
 button{
-  background-color: #363333;
+  text-decoration: none;
+  width: 50px;
+  height: 25px;
   color: white;
-  width: 80px;
-  height: 35px;
-  border-radius: 10px;
+  background-color: #363333;
+  border-radius: 20px;
   margin-top: 25px;
-  font-size: 15px;
+  font-size: 13px;
 }
