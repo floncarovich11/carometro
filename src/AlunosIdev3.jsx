@@ -5,7 +5,7 @@ import IconPessoa from "../img/iconePessoa.png"
 import "./idev2.css"
 import Card from "./components/Card"
 
-function Idev2()  {
+function Idev3()  {
     return (
         <>
             <div className='home'>
@@ -19,7 +19,7 @@ function Idev2()  {
                     <form action="" className='Idev-2'>
                         <div>
                         <a href="/home">
-                            IDEV-2
+                            IDEV-3
                         </a>
                         </div>
                     </form>
@@ -34,7 +34,6 @@ function Idev2()  {
             </div>
 
             <div className="alunosIdev2" >
-
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
@@ -49,48 +48,48 @@ function Idev2()  {
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
-                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
             </div>
         </>
     )
 }
 
-export default Idev2;
+export default Idev3;

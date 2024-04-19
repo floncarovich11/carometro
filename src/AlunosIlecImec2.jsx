@@ -1,11 +1,10 @@
 import React from "react"
 import Logo from "../img/senaiLogo.png"
 import PessoaIcon from "../img/iconePessoa.png"
-import IconPessoa from "../img/iconePessoa.png"
 import "./idev2.css"
-import Card from "./components/Card"
+import Card from './components/Card'
 
-function Idev2()  {
+function IlecImec2() {
     return (
         <>
             <div className='home'>
@@ -18,9 +17,9 @@ function Idev2()  {
                 <div>
                     <form action="" className='Idev-2'>
                         <div>
-                        <a href="/home">
-                            IDEV-2
-                        </a>
+                            <a href="/home">
+                                IELE/IMEC2
+                            </a>
                         </div>
                     </form>
                 </div>
@@ -35,17 +34,18 @@ function Idev2()  {
 
             <div className="alunosIdev2" >
 
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
+                <Card nome='ana' dataNascimento={'12/04/1997'}></Card>
             </div>
 
             <div className="alunosIdev2" >
@@ -93,4 +93,4 @@ function Idev2()  {
     )
 }
 
-export default Idev2;
+export default IlecImec2;

@@ -39,13 +39,20 @@ form{
     margin-left: 150px;
     box-shadow: 10px 0px 20px 0px rgba(0,0,0,0.5);;
 }
-body{
+
+/* Login.css */
+.login-container {
+  overflow: hidden; /* Aplica overflow apenas a esta parte da tela */
+}
+
+body  {
   /* overflow: hidden; */
   background-color: #FF5554;
 }
 .login{
   display: flex;
   background-color: red;
+  
 }
 input{
   background-color: #363333;
@@ -64,4 +71,9 @@ button{
   border-radius: 20px;
   margin-top: 25px;
   font-size: 13px;
+}
+
+input {
+  padding-left: 10px; /* Ajuste o valor conforme necessário */
+  color: white;
 }

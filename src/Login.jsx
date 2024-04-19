@@ -33,7 +33,7 @@ function Login() {
   };
 
   return (
-    <body>
+    <body className='login'>
       <div className="login">
         <div className="logo">
           <img src={Logo} alt="" width="400px" />

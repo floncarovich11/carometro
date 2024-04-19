@@ -5,7 +5,7 @@ import IconPessoa from "../img/iconePessoa.png"
 import "./idev2.css"
 import Card from "./components/Card"
 
-function Idev2()  {
+function IlecImec1()  {
     return (
         <>
             <div className='home'>
@@ -19,7 +19,7 @@ function Idev2()  {
                     <form action="" className='Idev-2'>
                         <div>
                         <a href="/home">
-                            IDEV-2
+                            IELEC/IMEC1
                         </a>
                         </div>
                     </form>
@@ -34,7 +34,6 @@ function Idev2()  {
             </div>
 
             <div className="alunosIdev2" >
-
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
                 <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
@@ -93,4 +92,4 @@ function Idev2()  {
     )
 }
 
-export default Idev2;
+export default IlecImec1;
