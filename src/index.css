@@ -29,9 +29,9 @@ form{
 }
 .retangulo-login{
     width: 800px;
-    height: 790px;
+    height: 712px;
     background-color: beige;
-    border-radius: 20px;
+    border-radius: 20px 20px 0px 0px;
     margin-top: 30px;
     display: block;
     justify-content: center;
@@ -42,9 +42,9 @@ form{
 
 /* Login.css */
 .login-container {
-  overflow: hidden; /* Aplica overflow apenas a esta parte da tela */
+  overflow: hidden; 
+  /* Aplica overflow apenas a esta parte da tela */
 }
-
 body  {
   /* overflow: hidden; */
   background-color: #FF5554;

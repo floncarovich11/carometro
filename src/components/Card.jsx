@@ -8,12 +8,10 @@ function Card({nome, dataNascimento}) {
             <div>
                 <form action="" className="form-idev2" >
                     <div className="retangulo-idev2">
-                        <a href="/home">
                         <img src={IconPessoa} alt="" width="200px" />
-                        </a>
                     </div>
-                    <div className="nomeAluno">{nome}</div>
-                    <div className="dataNascimento">{dataNascimento}</div>
+                    <div className="nomeAluno">{nome}
+                    <div>{dataNascimento}</div> </div>
                 </form>
             </div>
         </>

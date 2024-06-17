@@ -19,7 +19,7 @@ function Idev3()  {
                     <form action="" className='Idev-2'>
                         <div>
                         <a href="/home">
-                            IDEV-3
+                            VOLTAR
                         </a>
                         </div>
                     </form>

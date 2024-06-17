@@ -19,7 +19,7 @@ function Idev1()  {
                     <form action="" className='Idev-2'>
                         <div>
                         <a href="/home">
-                            IDEV-1
+                            VOLTAR
                         </a>
                         </div>
                     </form>
@@ -34,10 +34,10 @@ function Idev1()  {
             </div>
 
             <div className="alunosIdev2" >
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
-                <Card nome="roberto" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto1" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto2" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto3" dataNascimento={"10/10/2010"}></Card>
+                <Card nome="roberto4" dataNascimento={"10/10/2010"}></Card>
             </div>
 
             <div className="alunosIdev2" >
